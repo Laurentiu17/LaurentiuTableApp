@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome to iMaint!",
+  "title": "You are successfully logged in",
+
+  "login": {
+    "button": "Login",
+    "label": "Please log in to continue",
+    "logout": "Sign out"
+  },
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "currencyEuro": "{{value, currency}}"
+}

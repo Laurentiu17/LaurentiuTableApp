@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg">
+    <title>Small Arrow</title>
+    <g id="small-arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-right-icon">
+            <g>
+                <g id="minus-icon-copy">
+                    <rect id="Rectangle-Copy-7" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="23" height="23"></rect>
+                    <polygon id="Fill-1" fill="#A8B2C7" points="9 15.8208333 12.7100472 12 9 8.17916667 10.1449764 7 15 12 10.1449764 17"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

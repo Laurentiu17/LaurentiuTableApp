@@ -1,0 +1,1693 @@
+{
+  "nodes": [
+    {
+      "id": "Quick Links Menu",
+      "pagePkey": null,
+      "label": "Quick Links",
+      "icon": "MenuQuickLinks",
+      "order": 1,
+      "key": "quicklinksmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "Other Costs",
+          "pagePkey": 25,
+          "label": "Other Costs",
+          "icon": "otherCosts",
+          "order": 0,
+          "key": "othercosts",
+          "url": "assets/othercosts",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "id": "Work Orders Menu",
+      "pagePkey": null,
+      "label": "Work Orders",
+      "icon": "MenuWorkOrders",
+      "order": 2,
+      "key": "workordersmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "Quick Work Orders",
+          "pagePkey": 2,
+          "label": "Quick WO",
+          "icon": "quickWorkOrders",
+          "order": 1,
+          "key": "quickworkorders",
+          "url": "workorders/quickworkorders",
+          "nodes": []
+        },
+        {
+          "id": "Work Orders",
+          "pagePkey": 1,
+          "label": "Work Orders",
+          "icon": "workOrders",
+          "order": 2,
+          "key": "workorders",
+          "url": "workorders/workorders",
+          "nodes": []
+        },
+        {
+          "id": "Time Cards",
+          "pagePkey": 3,
+          "label": "Time Cards",
+          "icon": "timeCards",
+          "order": 3,
+          "key": "timecards",
+          "url": "workorders/timecards",
+          "nodes": []
+        },
+        {
+          "id": "Resource Allocations",
+          "pagePkey": 4,
+          "label": "Resource Allocation",
+          "icon": "resourceAllocation",
+          "order": 4,
+          "key": "resourceallocations",
+          "url": "workorders/resourceallocations",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "id": "Modules Menu",
+      "pagePkey": null,
+      "label": "Modules",
+      "icon": "MenuModules",
+      "order": 3,
+      "key": "modulesmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "Work Orders Menu",
+          "pagePkey": null,
+          "label": "Work Orders",
+          "icon": "menuWorkOrders",
+          "order": 1,
+          "key": "workordersmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Quick Work Orders",
+              "pagePkey": 2,
+              "label": "Quick WO",
+              "icon": "quickWorkOrders",
+              "order": 1,
+              "key": "quickworkorders",
+              "url": "workorders/quickworkorders",
+              "nodes": []
+            },
+            {
+              "id": "Work Orders",
+              "pagePkey": 1,
+              "label": "Work Orders",
+              "icon": "workOrders",
+              "order": 2,
+              "key": "workorders",
+              "url": "workorders/workorders",
+              "nodes": []
+            },
+            {
+              "id": "Time Cards",
+              "pagePkey": 3,
+              "label": "Time Cards",
+              "icon": "timeCards",
+              "order": 3,
+              "key": "timecards",
+              "url": "workorders/timecards",
+              "nodes": []
+            },
+            {
+              "id": "Resource Allocations",
+              "pagePkey": 4,
+              "label": "Resource Allocation",
+              "icon": "resourceAllocation",
+              "order": 4,
+              "key": "resourceallocations",
+              "url": "workorders/resourceallocations",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Work Requests Menu",
+          "pagePkey": null,
+          "label": "Work Requests",
+          "icon": "menuWorkRequests",
+          "order": 2,
+          "key": "workrequestsmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Create Requests",
+              "pagePkey": 5,
+              "label": "Create Requests",
+              "icon": "createRequests",
+              "order": 1,
+              "key": "createrequests",
+              "url": "workrequests/createrequests",
+              "nodes": []
+            },
+            {
+              "id": "Request Alert",
+              "pagePkey": 6,
+              "label": "Request Alert",
+              "icon": "requestAlert",
+              "order": 2,
+              "key": "requestalert",
+              "url": "workrequests/requestalert",
+              "nodes": []
+            },
+            {
+              "id": "View Process Requests",
+              "pagePkey": 7,
+              "label": "View/Process Requests",
+              "icon": "viewProcessRequests",
+              "order": 3,
+              "key": "viewprocessrequests",
+              "url": "workrequests/viewprocessrequest",
+              "nodes": []
+            },
+            {
+              "id": "Display Requests",
+              "pagePkey": 8,
+              "label": "Display Requests",
+              "icon": "displayRequests",
+              "order": 4,
+              "key": "displayrequests",
+              "url": "workrequests/displayrequests",
+              "nodes": []
+            },
+            {
+              "id": "Problem Level",
+              "pagePkey": null,
+              "label": "Problem Level",
+              "icon": "problemLevel",
+              "order": 5,
+              "key": "problemlevel",
+              "url": "workrequests/problemlevel",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Scheduling Menu",
+          "pagePkey": null,
+          "label": "Scheduling",
+          "icon": "menuScheduling",
+          "order": 3,
+          "key": "schedulingmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Schedules",
+              "pagePkey": 10,
+              "label": "Schedules",
+              "icon": "schedules",
+              "order": 1,
+              "key": "schedules",
+              "url": "schedules/schedules",
+              "nodes": []
+            },
+            {
+              "id": "Generate Scheduled WO Menu",
+              "pagePkey": null,
+              "label": "Generate Scheduled Work Orders",
+              "icon": "menuGenerateScheduledWorkOrders",
+              "order": 2,
+              "key": "generatescheduledwomenu",
+              "url": "schedules/Generatescheduledworkorders",
+              "nodes": [
+                {
+                  "id": "Generate Proof",
+                  "pagePkey": 12,
+                  "label": "Generate Proof",
+                  "icon": "generateProof",
+                  "order": 1,
+                  "key": "generateproof",
+                  "url": "schedules/Generatescheduledworkorders/generateproof",
+                  "nodes": []
+                },
+                {
+                  "id": "Review Proof",
+                  "pagePkey": 13,
+                  "label": "Review Proof",
+                  "icon": "reviewProof",
+                  "order": 2,
+                  "key": "reviewproof",
+                  "url": "schedules/Generatescheduledworkorders/reviewproof",
+                  "nodes": []
+                },
+                {
+                  "id": "Create Work Orders",
+                  "pagePkey": 14,
+                  "label": "Create Work Orders",
+                  "icon": "createWorkOrders",
+                  "order": 3,
+                  "key": "createworkorders",
+                  "url": "schedules/Generatescheduledworkorders/createworkorders",
+                  "nodes": []
+                },
+                {
+                  "id": "Print Work Orders",
+                  "pagePkey": 15,
+                  "label": "Print Work Orders",
+                  "icon": "printWorkOrders",
+                  "order": 4,
+                  "key": "printworkorders",
+                  "url": "schedules/Generatescheduledworkorders/printworkorders",
+                  "nodes": []
+                },
+                {
+                  "id": "Clear Proof",
+                  "pagePkey": null,
+                  "label": "Clear Proof",
+                  "icon": "clearProof",
+                  "order": 5,
+                  "key": "clearproof",
+                  "url": "schedules/Generatescheduledworkorders/clearproof",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "id": "Calendar Lockout",
+              "pagePkey": null,
+              "label": "Calendar Lockout",
+              "icon": "calendarLockout",
+              "order": 3,
+              "key": "calendarlockout",
+              "url": "schedules/calendarlockout",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Procedures Tasks Menu",
+          "pagePkey": null,
+          "label": "Procedures/Tasks",
+          "icon": "menuProceduresTasks",
+          "order": 4,
+          "key": "procedurestasksmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Procedures",
+              "pagePkey": 17,
+              "label": "Procedures",
+              "icon": "procedures",
+              "order": 1,
+              "key": "procedures",
+              "url": "procedures/procedures",
+              "nodes": []
+            },
+            {
+              "id": "Tasks",
+              "pagePkey": 18,
+              "label": "Tasks",
+              "icon": "tasks",
+              "order": 2,
+              "key": "tasks",
+              "url": "procedures/tasks",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Assets Menu",
+          "pagePkey": null,
+          "label": "Assets",
+          "icon": "menuAssets",
+          "order": 5,
+          "key": "assetsmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Assets",
+              "pagePkey": 19,
+              "label": "Assets",
+              "icon": "assets",
+              "order": 1,
+              "key": "assets",
+              "url": "assets/assets",
+              "nodes": []
+            },
+            {
+              "id": "Meter Update",
+              "pagePkey": 22,
+              "label": "Meter Update",
+              "icon": "meterUpdate",
+              "order": 2,
+              "key": "meterupdate",
+              "url": "assets/meterupdate",
+              "nodes": []
+            },
+            {
+              "id": "Meter Rollover",
+              "pagePkey": 23,
+              "label": "Meter Rollover",
+              "icon": "meterRollover",
+              "order": 3,
+              "key": "meterrollover",
+              "url": "assets/meterrollover",
+              "nodes": []
+            },
+            {
+              "id": "Asset Type",
+              "pagePkey": null,
+              "label": "Asset Types",
+              "icon": "assetType",
+              "order": 4,
+              "key": "assettype",
+              "url": "assets/assettypes",
+              "nodes": []
+            },
+            {
+              "id": "Asset Locations",
+              "pagePkey": 20,
+              "label": "Asset Locations",
+              "icon": "assetLocations",
+              "order": 5,
+              "key": "assetlocations",
+              "url": "assets/locations",
+              "nodes": []
+            },
+            {
+              "id": "Asset Groups",
+              "pagePkey": 24,
+              "label": "Asset Groups",
+              "icon": "assetGroups",
+              "order": 6,
+              "key": "assetgroups",
+              "url": "assets/assetgroups",
+              "nodes": []
+            },
+            {
+              "id": "Lines",
+              "pagePkey": 21,
+              "label": "Lines",
+              "icon": "lines",
+              "order": 7,
+              "key": "lines",
+              "url": "assets/lines",
+              "nodes": []
+            },
+            {
+              "id": "Meter Types",
+              "pagePkey": 86,
+              "label": "Meter Types",
+              "icon": "metersType",
+              "order": 8,
+              "key": "metertypes",
+              "url": "asset/metertypes",
+              "nodes": []
+            },
+            {
+              "id": "Other Costs",
+              "pagePkey": 25,
+              "label": "Other Costs",
+              "icon": "otherCosts",
+              "order": 9,
+              "key": "othercosts",
+              "url": "assets/othercosts",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Resources Menu",
+          "pagePkey": null,
+          "label": "Resources",
+          "icon": "menuResources",
+          "order": 6,
+          "key": "resourcesmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Employees",
+              "pagePkey": 26,
+              "label": "Employees",
+              "icon": "employees",
+              "order": 1,
+              "key": "employees",
+              "url": "resources/employees",
+              "nodes": []
+            },
+            {
+              "id": "Supervisors",
+              "pagePkey": 27,
+              "label": "Supervisors",
+              "icon": "supervisors",
+              "order": 2,
+              "key": "supervisors",
+              "url": "resources/supervisors",
+              "nodes": []
+            },
+            {
+              "id": "Buyers",
+              "pagePkey": 28,
+              "label": "Buyers",
+              "icon": "buyers",
+              "order": 3,
+              "key": "buyers",
+              "url": "resources/buyers",
+              "nodes": []
+            },
+            {
+              "id": "Contractors",
+              "pagePkey": 45,
+              "label": "Contractors",
+              "icon": "contractors",
+              "order": 4,
+              "key": "contractors",
+              "url": "resources/contractors",
+              "nodes": []
+            },
+            {
+              "id": "Other Resources",
+              "pagePkey": 29,
+              "label": "Other Resources",
+              "icon": "otherResources",
+              "order": 5,
+              "key": "otherresources",
+              "url": "resources/otherresources",
+              "nodes": []
+            },
+            {
+              "id": "Crafts",
+              "pagePkey": 30,
+              "label": "Crafts",
+              "icon": "crafts",
+              "order": 6,
+              "key": "crafts",
+              "url": "resources/crafts",
+              "nodes": []
+            },
+            {
+              "id": "Work Groups",
+              "pagePkey": 31,
+              "label": "Work Groups",
+              "icon": "workGroups",
+              "order": 7,
+              "key": "workgroups",
+              "url": "resources/workgroups",
+              "nodes": []
+            },
+            {
+              "id": "Shifts",
+              "pagePkey": 32,
+              "label": "Shifts",
+              "icon": "shifts",
+              "order": 8,
+              "key": "shifts",
+              "url": "resources/shifts",
+              "nodes": []
+            },
+            {
+              "id": "Labor Grades",
+              "pagePkey": 33,
+              "label": "Labor Grades",
+              "icon": "laborGrades",
+              "order": 9,
+              "key": "laborgrades",
+              "url": "resources/laborgrades",
+              "nodes": []
+            },
+            {
+              "id": "Pay Type",
+              "pagePkey": null,
+              "label": "Pay",
+              "icon": "payType",
+              "order": 10,
+              "key": "paytype",
+              "url": "additionalinformation/types/paytype",
+              "nodes": []
+            },
+            {
+              "id": "Other Costs",
+              "pagePkey": 25,
+              "label": "Other Costs",
+              "icon": "otherCosts",
+              "order": 11,
+              "key": "othercosts",
+              "url": "assets/othercosts",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Customers Menu",
+          "pagePkey": null,
+          "label": "Customers",
+          "icon": "menuCustomers",
+          "order": 7,
+          "key": "customersmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Internal Customers",
+              "pagePkey": 34,
+              "label": "Internal Customers",
+              "icon": "internalCustomers",
+              "order": 1,
+              "key": "internalcustomers",
+              "url": "customers/internalcustomers",
+              "nodes": []
+            },
+            {
+              "id": "External Customers",
+              "pagePkey": 35,
+              "label": "External Customers",
+              "icon": "externalCustomers",
+              "order": 2,
+              "key": "externalcustomers",
+              "url": "customers/externalcustomers",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Inventory Menu",
+          "pagePkey": null,
+          "label": "Inventory",
+          "icon": "menuInventory",
+          "order": 8,
+          "key": "inventorymenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Parts Menu",
+              "pagePkey": null,
+              "label": "Parts",
+              "icon": "menuParts",
+              "order": 1,
+              "key": "partsmenu",
+              "url": null,
+              "nodes": [
+                {
+                  "id": "Quick Parts",
+                  "pagePkey": 36,
+                  "label": "Quick Parts",
+                  "icon": "quickParts",
+                  "order": 1,
+                  "key": "quickparts",
+                  "url": "inventory/parts/quickparts",
+                  "nodes": []
+                },
+                {
+                  "id": "Parts",
+                  "pagePkey": 37,
+                  "label": "Parts",
+                  "icon": "parts",
+                  "order": 2,
+                  "key": "parts",
+                  "url": "inventory/parts/parts",
+                  "nodes": []
+                },
+                {
+                  "id": "Part Quantity Search",
+                  "pagePkey": 38,
+                  "label": "Part Quantity Search",
+                  "icon": "partQuantitySearch",
+                  "order": 3,
+                  "key": "partquantitysearch",
+                  "url": "inventory/parts/partquantitysearch",
+                  "nodes": []
+                },
+                {
+                  "id": "Warehouses",
+                  "pagePkey": 39,
+                  "label": "Warehouses",
+                  "icon": "warehouses",
+                  "order": 4,
+                  "key": "warehouses",
+                  "url": "inventory/parts/warehouses",
+                  "nodes": []
+                },
+                {
+                  "id": "Part Class",
+                  "pagePkey": 40,
+                  "label": "Part Class",
+                  "icon": "partClass",
+                  "order": 5,
+                  "key": "partclass",
+                  "url": "inventory/parts/partclass",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "id": "Adjustments",
+              "pagePkey": 41,
+              "label": "Adjustments",
+              "icon": "adjustments",
+              "order": 2,
+              "key": "adjustments",
+              "url": "inventory/adjustments",
+              "nodes": []
+            },
+            {
+              "id": "Physical Inventory",
+              "pagePkey": 42,
+              "label": "Physical Inventory",
+              "icon": "physicalInventory",
+              "order": 3,
+              "key": "physicalinventory",
+              "url": "inventory/physicalinventory",
+              "nodes": []
+            },
+            {
+              "id": "Suppliers Menu",
+              "pagePkey": null,
+              "label": "Suppliers",
+              "icon": "menuSuppliers",
+              "order": 4,
+              "key": "suppliersmenu",
+              "url": null,
+              "nodes": [
+                {
+                  "id": "Vendors",
+                  "pagePkey": 43,
+                  "label": "Vendors",
+                  "icon": "vendors",
+                  "order": 1,
+                  "key": "vendors",
+                  "url": "inventory/parts/suppliers/vendors",
+                  "nodes": []
+                },
+                {
+                  "id": "Manufacturers",
+                  "pagePkey": 44,
+                  "label": "Manufacturers",
+                  "icon": "manufacturers",
+                  "order": 2,
+                  "key": "manufacturers",
+                  "url": "inventory/parts/suppliers/manufacturers",
+                  "nodes": []
+                },
+                {
+                  "id": "Contractors",
+                  "pagePkey": 45,
+                  "label": "Contractors",
+                  "icon": "contractors",
+                  "order": 3,
+                  "key": "contractors",
+                  "url": "resources/contractors",
+                  "nodes": []
+                },
+                {
+                  "id": "Common Carriers",
+                  "pagePkey": 46,
+                  "label": "Common Carriers",
+                  "icon": "commonCarriers",
+                  "order": 4,
+                  "key": "commoncarriers",
+                  "url": "inventory/parts/suppliers/commoncarriers",
+                  "nodes": []
+                },
+                {
+                  "id": "Warranty Providers",
+                  "pagePkey": 47,
+                  "label": "Warranty Providers",
+                  "icon": "warrantyProviders",
+                  "order": 5,
+                  "key": "warrantyproviders",
+                  "url": "inventory/parts/suppliers/warrantyproviders",
+                  "nodes": []
+                },
+                {
+                  "id": "Other Suppliers",
+                  "pagePkey": 48,
+                  "label": "Other Suppliers",
+                  "icon": "otherSuppliers",
+                  "order": 6,
+                  "key": "othersuppliers",
+                  "url": "inventory/parts/suppliers/othersuppliers",
+                  "nodes": []
+                },
+                {
+                  "id": "Payment Terms",
+                  "pagePkey": 49,
+                  "label": "Payment Terms",
+                  "icon": "paymentTerms",
+                  "order": 7,
+                  "key": "paymentterms",
+                  "url": "inventory/parts/suppliers/paymentterms",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Purchasing Menu",
+          "pagePkey": null,
+          "label": "Purchasing",
+          "icon": "menuPurchasing",
+          "order": 9,
+          "key": "purchasingmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Create Purchase Requests",
+              "pagePkey": 50,
+              "label": "Create Purchase Requests",
+              "icon": "createPurchaseRequests",
+              "order": 1,
+              "key": "createpurchaserequests",
+              "url": "purchasing/createpurchaserequests",
+              "nodes": []
+            },
+            {
+              "id": "Generate Review Proof",
+              "pagePkey": 51,
+              "label": "Generate/Review Proof",
+              "icon": "generateReviewProof",
+              "order": 2,
+              "key": "generatereviewproof",
+              "url": "purchasing/generatereviewproof",
+              "nodes": []
+            },
+            {
+              "id": "Purchase Orders",
+              "pagePkey": 52,
+              "label": "Purchase Orders",
+              "icon": "purchaseOrders",
+              "order": 3,
+              "key": "purchaseorders",
+              "url": "purchasing/purchaseorders",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Projects",
+          "pagePkey": 53,
+          "label": "Projects",
+          "icon": "projects",
+          "order": 10,
+          "key": "projects",
+          "url": "projects",
+          "nodes": []
+        },
+        {
+          "id": "General Ledger Menu",
+          "pagePkey": null,
+          "label": "General Ledger",
+          "icon": "menuGeneralLedger",
+          "order": 11,
+          "key": "generalledgermenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "General Ledger Accounts",
+              "pagePkey": 54,
+              "label": "General Ledger Accounts",
+              "icon": "generalLedgerAccounts",
+              "order": 1,
+              "key": "generalledgeraccounts",
+              "url": "generalledger/generalledgeraccounts",
+              "nodes": []
+            },
+            {
+              "id": "View Cost Transactions",
+              "pagePkey": 55,
+              "label": "View Cost Transactions",
+              "icon": "viewCostTransactions",
+              "order": 2,
+              "key": "viewcosttransactions",
+              "url": "generalledger/viewcosttransactions",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Additional Information Menu",
+          "pagePkey": null,
+          "label": "Additional Information",
+          "icon": "menuAdditionalInformation",
+          "order": 12,
+          "key": "additionalinformationmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Attachments",
+              "pagePkey": 56,
+              "label": "Attachments",
+              "icon": "attachments",
+              "order": 1,
+              "key": "attachments",
+              "url": "additionalinformation/attachments",
+              "nodes": []
+            },
+            {
+              "id": "Buildings",
+              "pagePkey": 57,
+              "label": "Buildings",
+              "icon": "buildings",
+              "order": 2,
+              "key": "buildings",
+              "url": "additionalinformation/buildings",
+              "nodes": []
+            },
+            {
+              "id": "Codes",
+              "pagePkey": 58,
+              "label": "Codes",
+              "icon": "codes",
+              "order": 3,
+              "key": "codes",
+              "url": "additionalinformation/codes",
+              "nodes": []
+            },
+            {
+              "id": "Contact Master",
+              "pagePkey": 59,
+              "label": "Contact Master",
+              "icon": "contactMaster",
+              "order": 4,
+              "key": "contactmaster",
+              "url": "additionalinformation/contactmaster",
+              "nodes": []
+            },
+            {
+              "id": "Countries",
+              "pagePkey": 60,
+              "label": "Countries",
+              "icon": "countries",
+              "order": 5,
+              "key": "countries",
+              "url": "additionalinformation/countries",
+              "nodes": []
+            },
+            {
+              "id": "Currency",
+              "pagePkey": 61,
+              "label": "Currency",
+              "icon": "currency",
+              "order": 6,
+              "key": "currency",
+              "url": "additionalinformation/currency",
+              "nodes": []
+            },
+            {
+              "id": "Departments",
+              "pagePkey": 62,
+              "label": "Departments",
+              "icon": "departments",
+              "order": 7,
+              "key": "departments",
+              "url": "additionalinformation/departments",
+              "nodes": []
+            },
+            {
+              "id": "Misc Costs",
+              "pagePkey": 63,
+              "label": "Misc Costs",
+              "icon": "miscCosts",
+              "order": 8,
+              "key": "misccosts",
+              "url": "additionalinformation/misccosts",
+              "nodes": []
+            },
+            {
+              "id": "Other Costs",
+              "pagePkey": 25,
+              "label": "Other Costs",
+              "icon": "otherCosts",
+              "order": 9,
+              "key": "othercosts",
+              "url": "assets/othercosts",
+              "nodes": []
+            },
+            {
+              "id": "Priority",
+              "pagePkey": 64,
+              "label": "Priority",
+              "icon": "priority",
+              "order": 10,
+              "key": "priority",
+              "url": "additionalinformation/priority",
+              "nodes": []
+            },
+            {
+              "id": "Reasons",
+              "pagePkey": 65,
+              "label": "Reasons",
+              "icon": "reasons",
+              "order": 11,
+              "key": "reasons",
+              "url": "additionalinformation/reasons",
+              "nodes": []
+            },
+            {
+              "id": "States",
+              "pagePkey": 66,
+              "label": "States",
+              "icon": "states",
+              "order": 12,
+              "key": "states",
+              "url": "additionalinformation/states",
+              "nodes": []
+            },
+            {
+              "id": "Status Menu",
+              "pagePkey": null,
+              "label": "Status",
+              "icon": "menuStatus",
+              "order": 13,
+              "key": "statusmenu",
+              "url": null,
+              "nodes": [
+                {
+                  "id": "Assets Status",
+                  "pagePkey": 68,
+                  "label": "Assets Status",
+                  "icon": "assetsStatus",
+                  "order": 1,
+                  "key": "assetsstatus",
+                  "url": "additionalinformation/status/assetsstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Components Status",
+                  "pagePkey": 69,
+                  "label": "Components Status",
+                  "icon": "componentsStatus",
+                  "order": 2,
+                  "key": "componentsstatus",
+                  "url": "additionalinformation/status/componentsstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Contacts Status",
+                  "pagePkey": 70,
+                  "label": "Contacts Status",
+                  "icon": "contactsStatus",
+                  "order": 3,
+                  "key": "contactsstatus",
+                  "url": "additionalinformation/status/contactsstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "General Ledger Status",
+                  "pagePkey": 71,
+                  "label": "General Ledger Status",
+                  "icon": "generalLedgerStatus",
+                  "order": 4,
+                  "key": "generalledgerstatus",
+                  "url": "additionalinformation/status/generalledgerstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Parts Status",
+                  "pagePkey": 72,
+                  "label": "Parts Status",
+                  "icon": "partsStatus",
+                  "order": 5,
+                  "key": "partsstatus",
+                  "url": "additionalinformation/status/partsstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Part Location Status",
+                  "pagePkey": 73,
+                  "label": "Part Location Status",
+                  "icon": "partLocationStatus",
+                  "order": 6,
+                  "key": "partlocationstatus",
+                  "url": "additionalinformation/status/partlocationstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Procedures Status",
+                  "pagePkey": 74,
+                  "label": "Procedures Status",
+                  "icon": "proceduresStatus",
+                  "order": 7,
+                  "key": "proceduresstatus",
+                  "url": null,
+                  "nodes": []
+                },
+                {
+                  "id": "Projects Status",
+                  "pagePkey": 75,
+                  "label": "Projects Status",
+                  "icon": "projectsStatus",
+                  "order": 8,
+                  "key": "projectsstatus",
+                  "url": "additionalinformation/status/projectsstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Schedules Status",
+                  "pagePkey": 76,
+                  "label": "Schedules Status",
+                  "icon": "schedulesStatus",
+                  "order": 9,
+                  "key": "schedulesstatus",
+                  "url": "additionalinformation/status/schedulesstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Tasks Status",
+                  "pagePkey": 77,
+                  "label": "Tasks Status",
+                  "icon": "tasksStatus",
+                  "order": 10,
+                  "key": "tasksstatus",
+                  "url": "additionalinformation/status/tasksstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Tools Status",
+                  "pagePkey": 78,
+                  "label": "Tools Status",
+                  "icon": "toolsStatus",
+                  "order": 11,
+                  "key": "toolsstatus",
+                  "url": "additionalinformation/status/toolsstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Work Orders Status",
+                  "pagePkey": 79,
+                  "label": "Work Orders Status",
+                  "icon": "workOrdersStatus",
+                  "order": 12,
+                  "key": "workordersstatus",
+                  "url": "additionalinformation/status/workordersstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "Purchase Orders Status",
+                  "pagePkey": 80,
+                  "label": "Purchase Orders Status",
+                  "icon": "purchaseOrdersStatus",
+                  "order": 13,
+                  "key": "purchaseordersstatus",
+                  "url": "additionalinformation/status/purchaseordersstatus",
+                  "nodes": []
+                },
+                {
+                  "id": "User Profile Status",
+                  "pagePkey": 81,
+                  "label": "User Profile Status",
+                  "icon": "userProfileStatus",
+                  "order": 14,
+                  "key": "userprofilestatus",
+                  "url": "additionalinformation/status/userprofilestatus",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "id": "Tools",
+              "pagePkey": 67,
+              "label": "Tools",
+              "icon": "tools",
+              "order": 14,
+              "key": "tools",
+              "url": "additionalinformation/tools",
+              "nodes": []
+            },
+            {
+              "id": "Types Menu",
+              "pagePkey": null,
+              "label": "Types",
+              "icon": "menuTypes",
+              "order": 15,
+              "key": "typesmenu",
+              "url": null,
+              "nodes": [
+                {
+                  "id": "Address Type",
+                  "pagePkey": null,
+                  "label": "Address",
+                  "icon": "addressType",
+                  "order": 1,
+                  "key": "addresstype",
+                  "url": "additionalinformation/types/addresstype",
+                  "nodes": []
+                },
+                {
+                  "id": "Asset Type",
+                  "pagePkey": null,
+                  "label": "Asset Types",
+                  "icon": "assetType",
+                  "order": 2,
+                  "key": "assettype",
+                  "url": "assets/assettypes",
+                  "nodes": []
+                },
+                {
+                  "id": "Codes Type",
+                  "pagePkey": null,
+                  "label": "Codes",
+                  "icon": "codesType",
+                  "order": 3,
+                  "key": "codestype",
+                  "url": "additionalinformation/types/codestype",
+                  "nodes": []
+                },
+                {
+                  "id": "Contact Type",
+                  "pagePkey": null,
+                  "label": "Contact",
+                  "icon": "contactType",
+                  "order": 4,
+                  "key": "contacttype",
+                  "url": "additionalinformation/types/contacttype",
+                  "nodes": []
+                },
+                {
+                  "id": "Meter Types",
+                  "pagePkey": 86,
+                  "label": "Meter Types",
+                  "icon": "metersType",
+                  "order": 5,
+                  "key": "metertypes",
+                  "url": "asset/metertypes",
+                  "nodes": []
+                },
+                {
+                  "id": "Pay Type",
+                  "pagePkey": null,
+                  "label": "Pay",
+                  "icon": "payType",
+                  "order": 6,
+                  "key": "paytype",
+                  "url": "additionalinformation/types/paytype",
+                  "nodes": []
+                },
+                {
+                  "id": "Problem Type",
+                  "pagePkey": null,
+                  "label": "Problem ",
+                  "icon": "problemType",
+                  "order": 7,
+                  "key": "problemtype",
+                  "url": "additionalinformation/types/problemtype",
+                  "nodes": []
+                },
+                {
+                  "id": "Procedure Type",
+                  "pagePkey": null,
+                  "label": "Procedure",
+                  "icon": "procedureType",
+                  "order": 8,
+                  "key": "proceduretype",
+                  "url": "additionalinformation/types/proceduretype",
+                  "nodes": []
+                },
+                {
+                  "id": "Warranty Type",
+                  "pagePkey": null,
+                  "label": "Warranty",
+                  "icon": "warrantyType",
+                  "order": 9,
+                  "key": "warrantytype",
+                  "url": "additionalinformation/types/warrantytype",
+                  "nodes": []
+                },
+                {
+                  "id": "Work Type",
+                  "pagePkey": null,
+                  "label": "Work",
+                  "icon": "workType",
+                  "order": 10,
+                  "key": "worktype",
+                  "url": "additionalinformation/types/worktype",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Fuel Menu",
+          "pagePkey": null,
+          "label": "Fuel ",
+          "icon": "menuFuel",
+          "order": 13,
+          "key": "fuelmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Fuel Master",
+              "pagePkey": 92,
+              "label": "Fuel Master",
+              "icon": "fuelMaster",
+              "order": 1,
+              "key": "fuelmaster",
+              "url": "fuel/fuelmaster",
+              "nodes": []
+            },
+            {
+              "id": "Manual Menu",
+              "pagePkey": null,
+              "label": "Manual",
+              "icon": "menuManual",
+              "order": 2,
+              "key": "manualmenu",
+              "url": null,
+              "nodes": [
+                {
+                  "id": "Fuel Entry",
+                  "pagePkey": null,
+                  "label": "Fuel Entry",
+                  "icon": "fuelEntry",
+                  "order": 1,
+                  "key": "fuelentry",
+                  "url": "fuel/manual/fuelentry",
+                  "nodes": []
+                },
+                {
+                  "id": "Fuel Receipts",
+                  "pagePkey": null,
+                  "label": "Fuel Receipts",
+                  "icon": "fuelReceipts",
+                  "order": 2,
+                  "key": "fuelreceipts",
+                  "url": "fuel/manual/fuelreceipts",
+                  "nodes": []
+                },
+                {
+                  "id": "Fuel Transfers",
+                  "pagePkey": null,
+                  "label": "Fuel Transfers",
+                  "icon": "fuelTransfers",
+                  "order": 3,
+                  "key": "fueltransfers",
+                  "url": "fuel/manual/fueltransfers",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "id": "Import Menu",
+              "pagePkey": null,
+              "label": "Import",
+              "icon": "menuImport",
+              "order": 3,
+              "key": "importmenu",
+              "url": null,
+              "nodes": [
+                {
+                  "id": "Setup",
+                  "pagePkey": null,
+                  "label": "Setup",
+                  "icon": "setup",
+                  "order": 1,
+                  "key": "setup",
+                  "url": "fuel/import/setup",
+                  "nodes": []
+                },
+                {
+                  "id": "Move to iMaint",
+                  "pagePkey": null,
+                  "label": "Move to iMaint",
+                  "icon": "moveToiMaint",
+                  "order": 2,
+                  "key": "movetoimaint",
+                  "url": "fuel/import/movetoimaint",
+                  "nodes": []
+                },
+                {
+                  "id": "Review Data",
+                  "pagePkey": null,
+                  "label": "Review Data",
+                  "icon": "reviewData",
+                  "order": 3,
+                  "key": "reviewdata",
+                  "url": "fuel/import/reviewdata",
+                  "nodes": []
+                },
+                {
+                  "id": "Apply Data",
+                  "pagePkey": null,
+                  "label": "Apply Data",
+                  "icon": "applyData",
+                  "order": 4,
+                  "key": "applydata",
+                  "url": "fuel/import/applydata",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Reports Graphs Menu",
+      "pagePkey": null,
+      "label": "Reports/Graphs",
+      "icon": "MenuReports",
+      "order": 4,
+      "key": "reportsgraphsmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "Reports",
+          "pagePkey": 101,
+          "label": "Reports",
+          "icon": "reports",
+          "order": 1,
+          "key": "reports",
+          "url": "reportsgraphs/reports",
+          "nodes": []
+        },
+        {
+          "id": "Dashboard",
+          "pagePkey": 100,
+          "label": "Dashboard",
+          "icon": "dashboard",
+          "order": 2,
+          "key": "dashboard",
+          "url": "reportsgraphs/dashboard",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "id": "Sites Menu",
+      "pagePkey": null,
+      "label": "Sites",
+      "icon": "MenuDashboard",
+      "order": 5,
+      "key": "sitesmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "Current Site",
+          "pagePkey": null,
+          "label": "Current Site",
+          "icon": "currentSite",
+          "order": 1,
+          "key": "currentsite",
+          "url": "sites/currentsite",
+          "nodes": []
+        },
+        {
+          "id": "Change Current Site",
+          "pagePkey": null,
+          "label": "Change Current Site",
+          "icon": "changeCurrentSite",
+          "order": 2,
+          "key": "changecurrentsite",
+          "url": "sites/changecurrentsite",
+          "nodes": []
+        },
+        {
+          "id": "View Corporate Tree",
+          "pagePkey": null,
+          "label": "View Corporate Tree",
+          "icon": "viewCorporateTree",
+          "order": 3,
+          "key": "viewcorporatetree",
+          "url": "sites/viewcorporatetree",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "id": "Utilities Menu",
+      "pagePkey": null,
+      "label": "Utilities",
+      "icon": "MenuUtilities",
+      "order": 6,
+      "key": "utilitiesmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "View Transaction Logs Menu",
+          "pagePkey": null,
+          "label": "View Transaction Logs",
+          "icon": "menuViewTransactionLogs",
+          "order": 1,
+          "key": "viewtransactionlogsmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Status Change",
+              "pagePkey": null,
+              "label": "Status Change",
+              "icon": "statusChange",
+              "order": 1,
+              "key": "statuschange",
+              "url": "viewtransactionslogs/statuschange",
+              "nodes": []
+            },
+            {
+              "id": "Asset Location Change",
+              "pagePkey": null,
+              "label": "Asset Location Change",
+              "icon": "assetLocationChange",
+              "order": 2,
+              "key": "assetlocationchange",
+              "url": "viewtransactionslogs/assetlocationchange",
+              "nodes": []
+            },
+            {
+              "id": "Meter Entry",
+              "pagePkey": null,
+              "label": "Meter Entry",
+              "icon": "meterEntry",
+              "order": 3,
+              "key": "meterentry",
+              "url": "viewtransactionslogs/meterentry",
+              "nodes": []
+            },
+            {
+              "id": "Activity",
+              "pagePkey": null,
+              "label": "Activity",
+              "icon": "activity",
+              "order": 4,
+              "key": "activity",
+              "url": "viewtransactionslogs/activity",
+              "nodes": []
+            },
+            {
+              "id": "Code Transactions",
+              "pagePkey": null,
+              "label": "Code Transactions",
+              "icon": "codeTransactions",
+              "order": 5,
+              "key": "codetransactions",
+              "url": "viewtransactionslogs/codetransactions",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Error Logs",
+          "pagePkey": null,
+          "label": "Error Logs",
+          "icon": "errorLogs",
+          "order": 2,
+          "key": "errorlogs",
+          "url": "utilities/errorlogs",
+          "nodes": []
+        },
+        {
+          "id": "Management Menu",
+          "pagePkey": null,
+          "label": "Management",
+          "icon": "menuManagement",
+          "order": 3,
+          "key": "managementmenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "User Configuration",
+              "pagePkey": null,
+              "label": "User Configuration",
+              "icon": "userConfiguration",
+              "order": 1,
+              "key": "userconfiguration",
+              "url": "management/userconfiguration",
+              "nodes": []
+            },
+            {
+              "id": "User Defined Fields",
+              "pagePkey": null,
+              "label": "User Defined Fields",
+              "icon": "userDefinedFields",
+              "order": 2,
+              "key": "userdefinedfields",
+              "url": "management/userdefinedfields",
+              "nodes": []
+            },
+            {
+              "id": "Period End Processing",
+              "pagePkey": null,
+              "label": "Period End Processing",
+              "icon": "periodEndProcessing",
+              "order": 3,
+              "key": "periodendprocessing",
+              "url": "management/periodendprocessing",
+              "nodes": []
+            },
+            {
+              "id": "Forced Data Deletion",
+              "pagePkey": null,
+              "label": "Forced Data Deletion",
+              "icon": "forcedDataDeletion",
+              "order": 4,
+              "key": "forceddatadeletion",
+              "url": "management/forceddatadeletion",
+              "nodes": []
+            },
+            {
+              "id": "Code Transactions Retention",
+              "pagePkey": null,
+              "label": "Code Transactions Retention",
+              "icon": "codeTransactionsRetention",
+              "order": 5,
+              "key": "codetransactionsretention",
+              "url": "management/codetransactionsretention",
+              "nodes": []
+            },
+            {
+              "id": "VRMS Import",
+              "pagePkey": null,
+              "label": "VRMS Import",
+              "icon": "vrmsImport",
+              "order": 6,
+              "key": "vrmsimport",
+              "url": "management/vrmsimport",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Admin Menu",
+      "pagePkey": null,
+      "label": "Admin",
+      "icon": "MenuAdmin",
+      "order": 7,
+      "key": "adminmenu",
+      "url": null,
+      "nodes": [
+        {
+          "id": "Corporate Structure Menu",
+          "pagePkey": null,
+          "label": "Corporate Structure",
+          "icon": "menuCorporateStructure",
+          "order": 1,
+          "key": "corporatestructuremenu",
+          "url": null,
+          "nodes": [
+            {
+              "id": "Define",
+              "pagePkey": null,
+              "label": "Define",
+              "icon": "define",
+              "order": 1,
+              "key": "define",
+              "url": "corporatestructure/define",
+              "nodes": []
+            },
+            {
+              "id": "Import Export",
+              "pagePkey": null,
+              "label": "Import/Export",
+              "icon": "importExport",
+              "order": 2,
+              "key": "importexport",
+              "url": "corporatestructure/importexport",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "Email Templates",
+          "pagePkey": null,
+          "label": "Email Templates",
+          "icon": "emailTemplates",
+          "order": 2,
+          "key": "emailtemplates",
+          "url": "admin/emailtemplates",
+          "nodes": []
+        },
+        {
+          "id": "Security",
+          "pagePkey": null,
+          "label": "Security",
+          "icon": "security",
+          "order": 3,
+          "key": "security",
+          "url": "admin/security",
+          "nodes": []
+        },
+        {
+          "id": "Customize Navigation Tree",
+          "pagePkey": null,
+          "label": "Customize Navigation Tree",
+          "icon": "customizeNavigationTree",
+          "order": 4,
+          "key": "customizenavigationtree",
+          "url": "admin/customizenavigationtree",
+          "nodes": []
+        },
+        {
+          "id": "Dashboard Permissions",
+          "pagePkey": null,
+          "label": "Dashboard Permissions",
+          "icon": "dashboardPermissions",
+          "order": 5,
+          "key": "dashboardpermissions",
+          "url": "admin/dashboardpermissions",
+          "nodes": []
+        },
+        {
+          "id": "Form Designer",
+          "pagePkey": null,
+          "label": "Form Designer",
+          "icon": "formDesigner",
+          "order": 6,
+          "key": "formdesigner",
+          "url": "admin/formdesigner",
+          "nodes": []
+        },
+        {
+          "id": "Labels Translation",
+          "pagePkey": null,
+          "label": "Labels/Translation",
+          "icon": "labelsTranslation",
+          "order": 7,
+          "key": "labelstranslation",
+          "url": "admin/labelstranslation",
+          "nodes": []
+        },
+        {
+          "id": "Configure Auto Scheduler",
+          "pagePkey": null,
+          "label": "Configure Auto Scheduler",
+          "icon": "configureAutoScheduler",
+          "order": 8,
+          "key": "configureautoscheduler",
+          "url": "admin/configureautoscheduler",
+          "nodes": []
+        },
+        {
+          "id": "EOQ",
+          "pagePkey": null,
+          "label": "EOQ",
+          "icon": "eoq",
+          "order": 9,
+          "key": "eoq",
+          "url": "admin/eoq",
+          "nodes": []
+        }
+      ]
+    }
+  ]
+}

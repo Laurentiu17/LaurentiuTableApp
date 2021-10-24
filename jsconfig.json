@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@icons": ["./assets/icons"],
+      "@icons/*": ["./assets/icons/*"],
+      "@styles": ["./assets/styles"],
+      "@styles/*": ["./assets/styles/*"],
+      "@components/*": ["./components/*"],
+      "@containers/*": ["./containers/*"],
+      "@context/*": ["./context/*"],
+      "@modules": ["./modules"],
+      "@services/*": ["./services/*"],
+      "@api": ["./api"],
+      "@api/*": ["./api/*"]
+    }
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}

@@ -1,0 +1,15 @@
+{
+  "welcome": "¡Bienvenido a iMaint!",
+  "title": "Ha iniciado sesión correctamente",
+
+  "login": {
+    "button": "Iniciar sesión",
+    "label": "Inicia sesión para continuar",
+    "logout": "Desconectar"
+  },
+  "description": {
+    "part1": "Para comenzar, edite <1> src / App.js </1> y guárdelo para volver a cargar.",
+    "part2": "Cambia el idioma entre inglés y alemán usando los botones de arriba"
+  },
+  "currencyEuro": "{{valor, moneda}}"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>status / planned</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,0 C3.5888,0 0,3.5888 0,8 C0,12.4112 3.5888,16 8,16 C12.4112,16 16,12.4112 16,8 C16,3.5888 12.4112,0 8,0 M8,14.4 C4.4712,14.4 1.6,11.5288 1.6,8 C1.6,4.4712 4.4712,1.6 8,1.6 C11.5288,1.6 14.4,4.4712 14.4,8 C14.4,11.5288 11.5288,14.4 8,14.4 M8,8.8 C8.4424,8.8 8.8,8.4424 8.8,8 L8.8,4.8 C8.8,4.3576 8.4424,4 8,4 C7.5576,4 7.2,4.3576 7.2,4.8 L7.2,8 C7.2,8.4424 7.5576,8.8 8,8.8 M8,10.32032 C7.5144,10.32032 7.12,10.71392 7.12,11.20032 C7.12,11.68592 7.5144,12.07952 8,12.07952 C8.4856,12.07952 8.88,11.68592 8.88,11.20032 C8.88,10.71392 8.4856,10.32032 8,10.32032" id="path-1"></path>
+    </defs>
+    <g id="status-/-planned" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-Copy-12" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="15" height="15"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Icon" fill="#F19D39" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

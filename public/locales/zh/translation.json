@@ -1,0 +1,15 @@
+{
+  "welcome": "欢迎来到 iMaint！",
+  "title": "您已成功登录",
+
+  "login": {
+    "button": "登录",
+    "label": "请登录以继续",
+    "logout": "登出"
+  },
+  "description": {
+    "part1": "要开始，请编辑 <1> src / App.js </1> 并将其保存以重新加载。",
+    "part2": "使用上面的按钮在英语和德语之间切换语言"
+  },
+  "currencyEuro": "{{价值，货币}}"
+}
